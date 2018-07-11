@@ -1,3 +1,4 @@
 - [Home](/)
   - [Here's how you can get started](/get-started)
 - [FAQ](/FAQ)
+- [doc1] (/doc1)
